@@ -26,6 +26,7 @@
 * Breakfast at Nathdwara
 * Leave for Jodhpur (5 hr.)
 * Dinner at Jodhpur
+* Site seeing at Jodhpur
 
 ### Jodpur Hotel ###
 * [Hotel Niky International](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201502251618411977&mtkeys=undefined&checkin=02152019&checkout=02162019&city=JDH&codd=snew&country=IN&roomStayQualifier=3e0e3e0e4e0e&searchText=Jodhpur)
@@ -35,8 +36,11 @@
 * Site seeing at Jodhpur
 
 ## 17th Feb 2019 - Sun ##
-* Early leaving to Jaisalmer (5 hr.)
+* Leaving to Jaisalmer (5 hr.)
+* Site seeing at Jaisalmer
 
 ## 18th Feb 2019 - Mon ##
+* Site seeing at Jaisalmer
 
 ## 19th Feb 2019 - Tue ##
+* Early leaving to Ahmedabad (10 hr.)

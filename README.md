@@ -1,16 +1,15 @@
-# Rajsthan-Trip
-
 ## 13th Feb 2019 - Wed ##
 * At night leave for Udaipur from Ahmedabad
 
 ## 14th Feb 2019 - Thu ##
 * Udaipur check-in early morning
-* City Palace - till Noon
+* City Palace - 9.30 To 12 Noon
 * Lunch
 * Saheliyon-ki-Bari
-* Lake Pichola
+* Lake Pichola - 3 to 7
+* Fateh Sagar Lake 
 * Dinner
-* Leave for **Nathdwara**
+* Leave for **Nathdwara** (1 hr.)
 * Night stay at Nathdwara Dharmsala
 
 ### Udaipur Hotels ###
@@ -25,7 +24,7 @@
 ## 15th Feb 2019 - Fri ##
 * Shreenathji Mangla Darshan **@5 AM**
 * Breakfast at Nathdwara
-* Leave for Jodhpur 
+* Leave for Jodhpur (5 hr.)
 * Dinner at Jodhpur
 
 ### Jodpur Hotel ###
@@ -36,6 +35,7 @@
 * Site seeing at Jodhpur
 
 ## 17th Feb 2019 - Sun ##
+* Early leaving to Jaisalmer (5 hr.)
 
 ## 18th Feb 2019 - Mon ##
 

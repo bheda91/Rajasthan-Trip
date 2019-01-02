@@ -12,7 +12,7 @@
 * Leave for **Nathdwara** (1 hr.)
 * Night stay at Nathdwara Dharmsala
 
-### Udaipur Hotels ###
+### Udaipur Hotels ### (Just added, as discussed do not consider it now)
 * [HOTEL PARAS MAHAL](https://www.makemytrip.com/pwa/hotel-details/?hotelId=200707271246172822&mtkeys=undefined&area=&checkin=02142019&checkout=02152019&city=UDR&country=IN&roomStayQualifier=3e0e3e0e3e0e&sTime=1546437802358&searchText=Udaipur%2C%20India)
 * [LeRoi Udaipur](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201412101136318724&mtkeys=undefined&area=&checkin=02142019&checkout=02152019&city=UDR&country=IN&roomStayQualifier=3e0e3e0e3e0e&sTime=1546437802358&searchText=Udaipur%2C%20India)
 * [Shikarbadi Hotel](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201409041749354262&mtkeys=undefined&area=&checkin=02142019&checkout=02152019&city=UDR&country=IN&roomStayQualifier=3e0e3e0e3e0e&sTime=1546437802358&searchText=Udaipur%2C%20India)
@@ -38,6 +38,8 @@
 ## 17th Feb 2019 - Sun ##
 * Leaving to Jaisalmer (5 hr.)
 * Site seeing at Jaisalmer
+
+### Jaisalmer Hotels ### (Will add here, once I got time)
 
 ## 18th Feb 2019 - Mon ##
 * Site seeing at Jaisalmer

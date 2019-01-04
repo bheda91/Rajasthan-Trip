@@ -21,7 +21,7 @@
 * Dinner at Jodhpur
 * Site seeing at Jodhpur
 
-### Jodpur Hotel ###
+### Jodhpur Hotel Suggestions ###
 * [Hotel Niky International](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201502251618411977&mtkeys=undefined&checkin=02152019&checkout=02162019&city=JDH&codd=snew&country=IN&roomStayQualifier=3e0e3e0e4e0e&searchText=Jodhpur)
 * [Serene Luxury Farmhouse Stay](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201805311757002234&mtkeys=undefined&checkin=02152019&checkout=02162019&city=JDH&codd=snew&country=IN&roomStayQualifier=3e0e3e0e4e0e&searchText=Jodhpur)
 

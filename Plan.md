@@ -1,7 +1,7 @@
 # Detailed Plan of Rajasthan Trip
 
 ## 14th Feb 2019 - Thu ##
-* Leave for Udaipur in night **1 AM **
+* Leave for Udaipur in night **1 AM**
 * Udaipur check-in **5 AM**
 * Refreshment
 * City Palace - 9 To 12 Noon

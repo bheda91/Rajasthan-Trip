@@ -10,6 +10,7 @@
 * Lake Pichola - 3 to 7
 * Dinner
 * Leave for **Nathdwara** (1 hr.)
+* Night stay at Nathdwara Dharmshala
 
 ## 15th Feb 2019 - Fri ##
 * Shreenathji Mangla Darshan **5 AM**

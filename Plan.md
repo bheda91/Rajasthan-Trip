@@ -31,8 +31,7 @@
 
 ### Jodhpur Hotel Suggestions ###
 * [Kalinga Hotel](https://www.makemytrip.com/pwa/hotel-details/?hotelId=2007072310210931&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India#)
-* [Hotel Niky International](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201502251618411977&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India)
-* [Chhotaram Prajapats Homestay](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201012191248194802&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India#) **A Unique Hotel, near by village of Jodhpur, not in Jodhpur**
+* [Chhotaram Prajapats Homestay](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201012191248194802&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India#) **- A Unique Hotel, near by village of Jodhpur, not in Jodhpur**
 * **Have anyone tried this type of Hotel before?** [Zostel Jodhpur](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201812031314225704&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India)
 * [Aditya's Velvet Heritage](https://www.oyorooms.com/13847-budget-oyo-14817-adityas-velvet-heritage-jodhpur?checkin=15/02/2019&checkout=17/02/2019&rooms=4&guests=11&adults=11&children=0&selected_rcid=1)
 * [Hotel JS Regency](https://www.oyorooms.com/2036-budget-oyo-1623-hotel-js-regency-jodhpur?checkin=15/02/2019&checkout=17/02/2019&rooms=4&guests=11&adults=11&children=0&selected_rcid=1)
@@ -47,7 +46,11 @@
 * Night stay at Jaisalmer
 
 ### Jaisalmer Hotels (Will add here, once I got time) ###
-
+* [Hotel Fotiya Jaisalmer](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201605171205513435&mtkeys=undefined&checkin=02172019&checkout=02192019&city=JSA&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&searchText=Jaisalmer%2C%20India)
+* [Hotel Meera Mahal](https://www.makemytrip.com/pwa/hotel-details/?hotelId=200708221242398506&mtkeys=undefined&checkin=02172019&checkout=02192019&city=JSA&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&searchText=Jaisalmer%2C%20India)
+* [Royal Villa Jaislamer](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201807251353026436&mtkeys=undefined&checkin=02172019&checkout=02192019&city=JSA&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&searchText=Jaisalmer%2C%20India)
+* [Hotel Royal Heritage](https://www.oyorooms.com/15605-budget-oyo-9737-hotel-royal-heritage-jaisalmer?checkin=15/02/2019&checkout=17/02/2019&rooms=4&guests=11&adults=11&children=0&selected_rcid=1)
+* [The Grace Inn](https://www.oyorooms.com/14458-budget-oyo-9470-the-grace-inn-jaisalmer?checkin=15/02/2019&checkout=17/02/2019&rooms=4&guests=11&adults=11&children=0&selected_rcid=1)
 
 ## 18th Feb 2019 - Mon ##
 * Site seeing at Jaisalmer

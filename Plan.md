@@ -34,6 +34,9 @@
 * [Hotel Niky International](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201502251618411977&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India)
 * [Chhotaram Prajapats Homestay](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201012191248194802&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India#) **A Unique Hotel, near by village of Jodhpur, not in Jodhpur**
 * **Have anyone tried this type of Hotel before?** [Zostel Jodhpur](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201812031314225704&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India)
+* [Aditya's Velvet Heritage](https://www.oyorooms.com/13847-budget-oyo-14817-adityas-velvet-heritage-jodhpur?checkin=15/02/2019&checkout=17/02/2019&rooms=4&guests=11&adults=11&children=0&selected_rcid=1)
+* [Hotel JS Regency](https://www.oyorooms.com/2036-budget-oyo-1623-hotel-js-regency-jodhpur?checkin=15/02/2019&checkout=17/02/2019&rooms=4&guests=11&adults=11&children=0&selected_rcid=1)
+* [Marvel Umed](https://www.oyorooms.com/37546-budget-oyo-15001-marvel-umed-jodhpur?checkin=15/02/2019&checkout=17/02/2019&rooms=4&guests=11&adults=11&children=0&selected_rcid=1)
 
 
 ## 17th Feb 2019 - Sun ##

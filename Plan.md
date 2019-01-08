@@ -30,8 +30,10 @@
 * Night stay at Jodhpur
 
 ### Jodhpur Hotel Suggestions ###
-* [Hotel Niky International](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201502251618411977&mtkeys=undefined&checkin=02152019&checkout=02162019&city=JDH&codd=snew&country=IN&roomStayQualifier=3e0e3e0e4e0e&searchText=Jodhpur)
-* [Serene Luxury Farmhouse Stay](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201805311757002234&mtkeys=undefined&checkin=02152019&checkout=02162019&city=JDH&codd=snew&country=IN&roomStayQualifier=3e0e3e0e4e0e&searchText=Jodhpur)
+* [Kalinga Hotel](https://www.makemytrip.com/pwa/hotel-details/?hotelId=2007072310210931&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India#)
+* [Hotel Niky International](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201502251618411977&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India)
+* [Chhotaram Prajapats Homestay](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201012191248194802&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India#) **A Unique Hotel, near by village of Jodhpur, not in Jodhpur**
+* **Have anyone tried this type of Hotel before?** [Zostel Jodhpur](https://www.makemytrip.com/pwa/hotel-details/?hotelId=201812031314225704&mtkeys=undefined&area=&checkin=02152019&checkout=02172019&city=JDH&country=IN&roomStayQualifier=3e0e3e0e3e0e2e0e&sTime=1546956104748&searchText=Jodhpur%2C%20India)
 
 
 ## 17th Feb 2019 - Sun ##

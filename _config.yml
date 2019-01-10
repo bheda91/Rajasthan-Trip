@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
 
 languages: ["en", "de"]
 exclude_from_localizations: ["assets", "CNAME"]

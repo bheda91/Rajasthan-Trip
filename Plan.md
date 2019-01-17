@@ -61,3 +61,22 @@
 
 ## 19th Feb 2019 - Tue ##
 * Early leaving to Ahmedabad around **9 AM** (10 hr.)
+
+
+## Finalist
+1. Jatin Bheda
+2. Ravi Bheda
+3. Datt Dubal
+4. Jigisha Dubal
+5. Parth Dubal
+6. Abhishek Dubal
+7. Viral Dubal
+8. Parasar Dubal
+9. Niraj Dubal
+
+### Not confirmed
+1. Pooja Jagad
+2. Gargi Jagad
+3. kashyap Jagad
+4. Priya Dubal
+

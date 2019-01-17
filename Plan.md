@@ -74,7 +74,7 @@
 8. Parasar Dubal
 9. Niraj Dubal
 
-### Not confirmed
+### 50-50 Confirmed
 1. Pooja Jagad
 2. Gargi Jagad
 3. kashyap Jagad

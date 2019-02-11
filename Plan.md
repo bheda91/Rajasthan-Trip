@@ -26,7 +26,7 @@
 ## 16th Feb 2019 - Sat ##
 * Mehrangarh Fort - 9 to 12 AM
 * Lunch 
-* Site seeing 
+* Jaswant Thada 
 * Dinner
 * Night stay at Jodhpur
 * [Hotel Siddharth International](https://www.oyorooms.com/18961-budget-oyo-11975-siddharth-international-jodhpur)

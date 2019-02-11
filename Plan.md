@@ -66,3 +66,13 @@
 9. Niraj Dubal
 10. kashyap Jagad
 
+
+## Last minute bag packing list
+* Camera
+* Mobile charger
+* Power bank
+* Sun glasses
+* Warm jacket (temp. still goes to 10 - 12 in night)
+* Songs & Movies
+* Snacks
+* Water bottle

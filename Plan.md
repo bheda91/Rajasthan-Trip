@@ -40,7 +40,10 @@
 * [Heritage Juma Resort Camp](https://www.goibibo.com/hotels/heritage-juma-resort-camp-hotel-in-jaisalmer-855639425538696048/)
 
 ## 18th Feb 2019 - Mon ##
-* Site seeing at Jaisalmer
+* Leaving for Jaisalmer city around **9 AM** (45 min.)
+* Golden City Fort Jaisalmer
+* Patwon Ki Haveli
+* Gadisar Lake
 * Lunch
 * Shopping at local market 
 * Dinner
@@ -51,7 +54,7 @@
 * Early leaving to Ahmedabad around **9 AM** (10 hr.)
 
 
-## Finalist
+## Tourists ;)
 1. Jatin Bheda
 2. Ravi Bheda
 3. Datt Dubal
@@ -61,10 +64,5 @@
 7. Viral Dubal
 8. Parasar Dubal
 9. Niraj Dubal
-
-### 50-50 Confirmed
-1. Pooja Jagad
-2. Gargi Jagad
-3. kashyap Jagad
-4. Priya Dubal
+10. kashyap Jagad
 

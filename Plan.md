@@ -68,6 +68,7 @@
 
 
 ## Last minute bag packing list
+* ** ID Card (Either Aadhar card, Pan card, Driving licence or Election card) **
 * Camera
 * Mobile charger
 * Power bank
